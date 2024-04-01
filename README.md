@@ -1,6 +1,6 @@
 # uncertainties-default-ide-settings
 
-A repo containing some default IDE settings for developers of the [uncertainties](https://github.com/lmfit/uncertainties)) library.
+A repo containing some default IDE settings for developers of the [uncertainties](https://github.com/lmfit/uncertainties) library.
 
 Additional default IDE settings for this project are welcome. Send me a pull request with them.
 
